@@ -17,4 +17,4 @@ case's':printf("one week suspension from class\n");
 default:printf("sit in front\n");
 }
 }
-aaaaaaa
+101010
