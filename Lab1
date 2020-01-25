@@ -1,0 +1,28 @@
+<html dir = "ltr">
+	<head>
+		<title>title</title>
+	</head>
+	<body>
+		<h3 title = "HELLO">Heading</h3>
+		<p >Document content...<br />
+		Second line</p>
+
+		<center>
+			<p><strike>Document</strike> <sup>content1...</sup></p>
+		</center>
+
+		<p align = "right"><tt>Document</tt> <b>cont</b>ent2...</p>
+		<hr />
+		<p title = "WELCOME"><u>Docu<sub>ment</sub></u> <i>content3</i>...</p>
+		<pre>
+			function()
+			{
+				print()
+			}
+		</pre>
+		<ins>Inserted text</ins>
+		<del>Deleted text</del>
+		<big>Big text</big>
+		<small>Small text</small>
+	</body>
+</html>
