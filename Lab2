@@ -1,0 +1,47 @@
+<html>
+	<head>
+		<title>Title</title>
+	</head>
+	<body bgcolor = cyan>
+		<div id = "menu" align = "left">
+		<p> this is line 1
+			<em> this is line 2 </em>
+			<mark> this is line 3 </mark>
+			<strong> this is line 4 </strong>
+			<bdo dir = "rtl">
+				this is line 5
+			</bdo>
+
+			<OL type = "a" start = 6>
+				<li> Item 1 </li>
+				<li> Item 2 </li>
+				<li> Item 3 </li>
+			</OL>
+			<OL type ="1">
+				<li>Fruits
+					<ul type = "round">
+						<li>banana</li>
+						<li>apple
+							<OL type = "i">
+								<li>red</li>
+								<li>green</li>
+							</OL>
+						</li>
+					</ul>
+				</li>			
+				<li>Vegetables
+					<OL type = "I">
+						<li>tomato</li>
+						<li>carrot</li>
+					</OL>
+				</li>
+			</OL>
+
+			<DL>
+				<DT>HTML</DT>
+				<DD>Hyper Text Markup Language</DD>
+			</DL>
+		</p>
+		</div>
+	</body>
+</html>
