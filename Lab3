@@ -1,0 +1,23 @@
+<html>
+	<body>
+		<table border = 5 cellpadding = 5 cellspacing = 5>
+			<tr>
+				<th>Column 1 header </th>
+				<th>Column 2 header </th>
+			</tr>
+			<tr height = 100>
+				<td valign = "top"> Row1, col1 </td>
+				<td> Row1, col2 </td>
+			</tr>
+			<tr>
+				<td colspan = 2> Row2, col1 </td>
+				<td> Row2, col2 </td>
+			</tr>
+			<caption align = "top">Table1</caption>
+		</table>
+		<a href = "http://www.github.com">Click here</a>
+		<br/>
+		<br/>
+		<img src = "/home/student/Documents/index.png" />
+	</body>
+</html>
