@@ -1,0 +1,32 @@
+<html>
+	<body bgcolor = #000000>
+		<table height = 300px width = 1000px border = 2 cellspacing = 0 bgcolor = #ffffff align = "center">
+			<th colspan = 5>Time-Table</th>
+			<tr align = "center" bgcolor = "yellow">
+				<td>Days</td>
+				<td>1</td>
+				<td>2</td>
+				<td rowspan = 4 width = 100px>L<br/>U<br/>N<br/>C<br/>H</td>
+				<td>3</td>
+			</tr>
+			<tr align = "center">
+				<td bgcolor = "grey">Monday</td>
+				<td>CS1</td>
+				<td>CS2</td>
+				<td>CS3</td>
+			</tr>
+			<tr align = "center">
+				<td bgcolor = "grey">Wednesday</td>
+				<td>CS1</td>
+				<td>CS2</td>
+				<td>CS3</td>
+			</tr>
+			<tr align = "center">
+				<td bgcolor = "grey">Friday</td>
+				<td>CS1</td>
+				<td>CS2</td>
+				<td>CS3</td>
+			</tr>
+		</table>
+	</body>
+</html>
