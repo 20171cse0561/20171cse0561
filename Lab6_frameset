@@ -1,0 +1,11 @@
+<html>
+	<frameset rows = "30%,50%,20%" cols="*,*.*">
+		<frame name = "row1" src = "/home/student/Documents/aaa.jpeg" />
+		<frame name = "row2" src = "/home/student/Documents/index.png" />
+		<frame name = "row3" src = "http://www.presidencyuniversity.in"/>
+		
+		<noframes>
+			<body> Does not support frame </body>
+		</noframes>
+	</frameset>
+</html>

@@ -1,0 +1,19 @@
+<html>
+	<body>
+
+		<p>
+			hel &nbsp;&nbsp;&nbsp; lo</br>
+			&lt; &gt; &amp; &quot; &apos; &cent;
+		</p>
+		<img src = "/home/student/Documents/sq.png" height =500px width= 1000px usemap = "#workmap" />
+		<map name = "workmap">
+			<area shape="rect" coords="20,15,300,270" alt = "computer" href = "http://www.google.com" />
+			<area shape="rect" coords="670,270,910,530" alt = "computer" href = "http://www.amazon.com" />
+			<area shape="rect" coords="650,20,860,120" alt = "computer" href = "http://www.flipkart.com" />
+		</map>
+
+		<iframe src = "/home/student/Documents/sq.png" width = 300 height = 300>
+			Sorry, browser does not support inline frames
+		</iframe>
+	</body>
+</html>
