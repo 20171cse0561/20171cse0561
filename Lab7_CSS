@@ -1,0 +1,27 @@
+<html>
+	<head>
+		
+		<style type = "text/css">
+			
+			h1{
+				color: #ac3497;
+				margin-top: 40px;
+			}
+			p>a{
+				text-align: center;
+				color: black;
+			}
+			body{
+				background-color: cyan;
+			}
+
+		</style>
+		<link rel="stylesheet" type = "text/css" href = "mystyle.css" />
+	</head>
+
+	<body>
+		<h1>This is a heading</h1>
+		<p style = "color: red;">This is a paragraph &nbsp;&nbsp;&nbsp;&nbsp;<a href = "http://www.google.com">Click here</a></p>
+		
+	</body>
+</html>
