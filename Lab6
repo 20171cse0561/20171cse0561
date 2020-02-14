@@ -15,5 +15,8 @@
 		<iframe src = "/home/student/Documents/sq.png" width = 300 height = 300>
 			Sorry, browser does not support inline frames
 		</iframe>
+		
+		<p><a href = "http://www.w3schools.com" target = "abc">Load new page</a></p>
+		<iframe src = "http://www.presidencyuniversity.in" name = "abc" />
 	</body>
 </html>
