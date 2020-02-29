@@ -1,0 +1,19 @@
+<html>
+	<head>
+		<style>
+			body{
+				background-image: url("/home/cse9/Documents/university badge.jpg");
+				background-repeat: no-repeat;
+				background-attachment: scroll;
+			}		
+
+		</style>
+	</head>
+
+	<body>
+		<p style = "font-size: xx-large; font-style: italic; font-family: calibri; font-stretch: ultra-expanded; font-weight: 1000; word-spacing: 20px; letter-spacing: 10px; direction: ltr;"><br /><br /><br /><br /><br /><br />Good Morning Good Morning Good Morning 
+<p style = "font-size: 30px; text-decoration: underline overline dashed blue; text-transform: capitalize; text-shadow: 100px 40px 5px red">good morning<br /><br /><br /></p></p>
+		<img style = "border: 5px dashed blue;" src = "/home/cse9/Documents/university badge.jpg" />
+
+	</body>
+</html>
