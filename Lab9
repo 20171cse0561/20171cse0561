@@ -1,0 +1,18 @@
+<html>
+	<head>
+		<style>
+			p.mix{
+				border-style: dotted dashed solid double;
+				border-width: 3px 6px 9px 12px;
+				border-color: blue green yellow red;
+				margin: 25px 50px 75px 100px;
+				padding: 100px 75px 50px 25px;				
+			}
+		</style>
+	</head>
+	<body>
+		
+		<p class = "mix">Good Morning<br />This is border Example</p>
+		<p style = "border: 10px solid powderblue; width: 100px; margin: auto; opacity:1;">Good Morning<br />This is border Example</p>
+	</body>
+</html>
