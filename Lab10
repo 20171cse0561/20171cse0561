@@ -1,0 +1,63 @@
+<html>
+	<head>
+		<style>
+			div{
+				width: 300px;
+				border: 25px solid black;
+				padding: 25px;
+				margin: 50px;
+				display: block;
+			}
+			div:visited{
+				background-color: blue;
+			}
+			div:hover p{
+				background-color: pink;
+			}
+			div:active{
+				background-color: yellow;
+			}
+			a:hover{
+				color: black;
+			}
+			a:active{
+				background-color: yellow;
+			}
+			a{
+				padding: 60px;
+				color: white;
+				text-decoration: none;
+				background-color: grey;
+			}
+			.a1{
+				border-style: solid;
+				border-color: black;
+				border-width: 4px 0px 4px 4px;
+			}
+			.a2{
+				border-style: solid;
+				border-color: black;
+				border-width: 4px 0px 4px 0px;
+			}
+			.a3{
+				border-style: solid;
+				border-color: black;
+				border-width: 4px 4px 4px 0px;
+			}
+		</style>
+	</head>
+	<body>
+		<div>
+			gergeg
+			sgwrgteg
+			<p>dghdgg</p>
+		</div>
+		<div style = "display: none;">
+			sdfwf
+		</div>
+		
+		<br /><br /><br /><br />
+		<a class = "a1">Home</a><a class = "a2">Contact</a><a class = "a3">About us</a>
+
+	</body>
+</html>
