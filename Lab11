@@ -1,0 +1,71 @@
+<html>
+	<head>
+		<style>
+			a.highlight:hover{
+				color: #aaff00;
+			}
+			p.dis{
+				display: none;
+			}
+			div:hover p{
+				display: block;
+			}
+
+			p::first-line{
+				color: red;
+			}
+			p::before{
+				content: "sdkhbfsb";
+			}
+			::selection{
+				color:yellow;
+			}
+			img:hover{
+				opacity: 0.3;
+			}
+			.rgba{
+				background: rgba(30,0,100,0.2);				
+			}
+			.bg{
+				background: url("/home/cse9/Desktop/61toD06OIyL._SX466_.jpg") no-repeat;
+				opacity: 0.5;
+			}
+
+			ul{
+				list-style-type: none;
+				padding: 0;
+				margin: 0;
+				background-color: #e0deca;
+				width: 150px;
+			}
+			li a{
+				display: block;
+				
+				padding: 10px 20px;
+			}
+			li a:hover{
+				background-color: #1ac937;
+				color: white;
+			}
+		</style>
+	</head>
+	<body >
+		<div  class = "rgba">
+			<a class = "highlight">Click</a>
+			<p class = "dis">Here</p>
+			<p>Good<br />Morning</p>
+		</div>
+		<div class = "bg">
+			<p style = "opacity: 1;">Opacity</p>
+			<img src = "/home/cse9/Desktop/1570093947php4Fiy8D.png" />
+		</div>
+		<div>
+			<ul>
+				<li><a>Home</a></li>
+				<li><a>News</a></li>
+				<li><a>Contact</a></li>
+				<li><a>About</a></li>
+			</ul>
+		</div>
+	</body>
+</html>
